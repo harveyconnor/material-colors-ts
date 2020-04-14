@@ -1,7 +1,11 @@
 {
   "name": "material-colors-ts",
-  "version": "1.0.1",
-  "author": "Harvey Connor <harvey@smartguide.com.au>",
+  "homepage": "https://github.com/harveyconnor/material-colors-ts",
+  "version": "1.0.2",
+  "author": {
+    "name": "Harvey Connor",
+    "email": "harvey@smartguide.com.au"
+  },
   "description": "A zero dependency TypeScript export of the material design color system.",
   "license": "MIT",
   "main": "lib/index.js",
@@ -19,6 +23,13 @@
     "colors",
     "color"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harveyconnor/material-colors-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harveyconnor/material-colors-ts/issues"
+  },
   "devDependencies": {
     "typescript": "^3.8.3"
   }
