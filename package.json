@@ -1,6 +1,6 @@
 {
   "name": "material-colors-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Harvey Connor <harvey@smartguide.com.au>",
   "description": "A zero dependency TypeScript export of the material design color system.",
   "license": "MIT",
