@@ -1,0 +1,25 @@
+{
+  "name": "material-colors-ts",
+  "version": "1.0.0",
+  "author": "Harvey Connor <harvey@smartguide.com.au>",
+  "description": "A zero dependency TypeScript export of the material design color system.",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "material",
+    "material-colors",
+    "material-design",
+    "typescript",
+    "design",
+    "google",
+    "google-colors",
+    "colors",
+    "color"
+  ],
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
