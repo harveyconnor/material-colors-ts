@@ -1,6 +1,6 @@
 # material-colors-ts
 
-![npm](https://img.shields.io/npm/v/material-colors-ts)
+[![NPM version](https://img.shields.io/npm/v/material-colors-ts.svg)](https://www.npmjs.com/package/material-colors-ts)
 
 A zero dependency TypeScript export of the material design color system.
 
